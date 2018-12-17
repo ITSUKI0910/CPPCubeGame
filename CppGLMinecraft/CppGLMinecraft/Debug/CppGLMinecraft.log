@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\cpplib\gslib_2015\inc\gstype.h(14): fatal error C1083: include ファイルを開けません。'windows.h':No such file or directory

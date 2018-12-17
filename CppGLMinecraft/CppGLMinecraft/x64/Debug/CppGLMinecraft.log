@@ -1,0 +1,17 @@
+﻿  main.cpp
+main.obj : error LNK2019: 未解決の外部シンボル __imp_glClear が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル __imp_glClearColor が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル __imp_glewInit が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwInit が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwTerminate が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwWindowHint が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwCreateWindow が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwWindowShouldClose が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwWaitEvents が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwMakeContextCurrent が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwSwapBuffers が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwSwapInterval が関数 main で参照されました。
+main.obj : error LNK2001: 外部シンボル "__imp_glewExperimental" は未解決です。
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 未解決の外部シンボル WinMain が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました。
+C:\gslib_2015\lib\glfw_mdd.lib : warning LNK4272: ライブラリのコンピューターの種類 'x86' がターゲットのコンピューターの種類' x64' と競合しています
+C:\Users\itsuk\Desktop\CppMinecraft\CppGLMinecraft\x64\Debug\CppGLMinecraft.exe : fatal error LNK1120: 14 件の未解決の外部参照
